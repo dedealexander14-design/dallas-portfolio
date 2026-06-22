@@ -19,9 +19,21 @@ I'm currently transitioning into Software Engineering at WGU and building projec
 - Contribute projects to GitHub
 - Land a software engineering internship
 
-## Projects
-Coming Soon 🚀
+## ## Projects
+
+### Bloom Budgeting App
+A personal budgeting application for tracking expenses, income, budgets, and financial goals.
+
+### Queen Exlaiar Wellness Meal Prep App
+A meal planning and wellness application designed to help users organize meals, nutrition, and healthy lifestyle goals.
+
+### Dallas Portfolio
+My software engineering portfolio showcasing projects and skills.
 
 ## Connect With Me
-LinkedIn: Coming Soon
-GitHub: https://github.com/yourusername 
+
+💼 LinkedIn: https://www.linkedin.com/in/dallas-alexander-665582274
+
+💻 GitHub: https://github.com/dedealexander14-design
+
+📧 Email: dedealexander14@gmail.com
